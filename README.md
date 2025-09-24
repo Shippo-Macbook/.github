@@ -1,2 +1,2 @@
 # .github
-Mindbody for Mac is a desktop wellness and fitness management platform for MacOS. Manage appointments, staff schedules, and client information efficiently from your Mac.
+Shippo for Mac is a desktop shipping and logistics management platform for MacOS. Streamline shipping labels, track packages, and manage orders efficiently from your Mac.
